@@ -1,4 +1,4 @@
-# Shoe Shop App
+# Shoe Shopping App
 
 This is a Flutter-based Shoe Shopping application that allows users to browse through a collection of shoes, view product details, add products to the cart, and manage their shopping cart. The app is responsive and user-friendly across various screen sizes and orientations.
 
@@ -13,7 +13,7 @@ This is a Flutter-based Shoe Shopping application that allows users to browse th
 
 ## Screenshots
 
-![Screenshot 1](assets/screenshot1.png) ![Screenshot 2](assets/screenshot2.png) ![Screenshot 3](assets/screenshot3.png) ![Screenshot $](assets/screenshot4.png)
+![Screenshot 1](assets/screenshots/screenshot1.png) ![Screenshot 2](assets/screenshots/screenshot2.png) ![Screenshot 3](assets/screenshots/screenshot3.png) ![Screenshot 4](assets/screenshots/screenshot4.png)screenshots/
 
 ## Installation
 
