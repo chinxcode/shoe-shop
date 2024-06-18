@@ -13,7 +13,12 @@ This is a Flutter-based Shoe Shopping application that allows users to browse th
 
 ## Screenshots
 
-![Screenshot 1](assets/screenshots/screenshot1.png) ![Screenshot 2](assets/screenshots/screenshot2.png) ![Screenshot 3](assets/screenshots/screenshot3.png) ![Screenshot 4](assets/screenshots/screenshot4.png)screenshots/
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="assets/screenshots/screenshot1.png" alt="Screenshot 1" width="200px" height="auto" style="margin-right: 10px;">
+  <img src="assets/screenshots/screenshot2.png" alt="Screenshot 2" width="200px" height="auto" style="margin-right: 10px;">
+  <img src="assets/screenshots/screenshot3.png" alt="Screenshot 3" width="200px" height="auto" style="margin-right: 10px;">
+  <img src="assets/screenshots/screenshot4.png" alt="Screenshot 4" width="200px" height="auto" style="margin-right: 10px;">
+</div>
 
 ## Installation
 
